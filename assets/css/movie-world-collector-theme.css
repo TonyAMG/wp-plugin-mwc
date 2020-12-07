@@ -1,0 +1,60 @@
+/************* Big Block Elements *************/
+.mwc-plugin-film-details-page {
+    margin-left: 20px;
+}
+/************* Big Block Elements *************/
+
+
+/************* Small Block Elements *************/
+.mwc-plugin-film-title {
+    font-size: 33px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.mwc-plugin-film-original-title {
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+/************* Small Block Elements *************/
+
+
+/************* Column Elements *************/
+.mwc-plugin-film-logo-column {
+    display: inline-block;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+
+.mwc-plugin-film-details-column {
+    display: inline-block;
+    width: 450px;
+    margin-right: 20px;
+    vertical-align: top;
+    line-height: 2em;
+    font-size: 17px;
+}
+
+.mwc-plugin-film-overview-column {
+    display: inline-block;
+    width: 600px;
+    vertical-align: top;
+    text-align: justify;
+    font-size: 20px;
+    line-height: 1.5em;
+    text-justify: inter-word;
+}
+/************* Column Elements *************/
+
+
+/************* Inline Elements *************/
+.mwc-plugin-film-desc-headers{
+    font-size: 23px;
+    color: #777373;
+}
+
+.mwc-plugin-film-desc{
+    font-size: 20px;
+    color: #1870b5;
+}
+/************* Inline Elements *************/
